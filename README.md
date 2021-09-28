@@ -4,4 +4,6 @@ This is the COMP7404 Computational Intelligence and Machine Learning's Homeworks
 
 Additionally, The Autograder is provided for you to check out whether the solutions are correct.
 
-Sep 27th Update: Assignment 0 & 1 has been uploaded.
+Their might be other interesting things I'm working on.
+
+### Sep 27th Update: Assignment 0 & 1 has been uploaded.
