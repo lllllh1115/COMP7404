@@ -10,4 +10,4 @@ Their might be other interesting things I'm working on.
 
 I'm Lian Huan in MDASC in HKU, and I obtained BSc in statistics in Nankai in June, 2021. Contact me at lianh21@connect.hku.hk
 
-## Sep 27th Update: Assignment 0 & 1 has been uploaded.
+## Sep 27th Update: Assignment 0 has been uploaded.
