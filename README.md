@@ -6,8 +6,16 @@ This is the HKU COMP7404 Computational Intelligence and Machine Learning's Homew
 
 Their might be other interesting things I'm working on.
 
+All copyright of the materials belong to CS department in Berkeley and HKU.
+
+[CS Berkeley]https://cs.berkeley.edu/
+
+
+
 ## About the author:
 
 I'm Lian Huan in MDASC in HKU, and I obtained BSc in statistics in Nankai in June, 2021. Contact me at lianh21@connect.hku.hk
 
 ## Sep 27th Update: Assignment 0 has been uploaded.
+
+## Mar 12nd Update: Assignment 1 has been uploaded.
