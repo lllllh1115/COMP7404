@@ -8,7 +8,9 @@ Their might be other interesting things I'm working on.
 
 All copyright of the materials belong to CS department in Berkeley and HKU.
 
-[CS Berkeley]https://cs.berkeley.edu/
+[CS Berkeley](https://cs.berkeley.edu/)
+[CS HKU](https://www.cs.hku.hk/)
+[Course Instructor, Dr. Schnieders Dirk](https://www.cs.hku.hk/)
 
 
 
