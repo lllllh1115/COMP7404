@@ -20,4 +20,6 @@ I'm Lian Huan in MDASC in HKU, and I obtained BSc in statistics in Nankai in Jun
 
 ## Sep 27th Update: Assignment 0 has been uploaded.
 
-## Mar 12nd Update: Assignment 1 has been uploaded.
+## Mar 12th Update: Assignment 1 has been uploaded.
+
+## Further Update: Assignment 2 has also been uploaded.
